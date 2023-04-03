@@ -1,6 +1,6 @@
 # LBTT Calculator
 
-A simple Ruby application to calculate the Land and Buildings Transaction Tax (LBTT) in Scotland. This tax is levied on property purchases based on the price of the property and varies according to specific tax bands.
+A simple Ruby application to calculate the Land and Buildings Transaction Tax (LBTT) in Scotland. This tax is levied on property purchases based on the price of the property and varies according to specific tax bands. https://revenue.scot/taxes/land-buildings-transaction-tax
 
 ## Assumptions
 
