@@ -43,7 +43,8 @@ To use the LBTT Calculator, you can create a new instance of the LBTT_Calculator
 
 require_relative 'lbtt_calculator'
 
-```calculator = LBTT_Calculator.new(300_000)
+```
+calculator = LBTT_Calculator.new(300_000)
 puts "LBTT: £#{calculator.calculate}"
 ```
 
